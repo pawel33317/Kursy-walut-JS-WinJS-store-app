@@ -1,0 +1,72 @@
+﻿#alll {
+    width: 95%;
+    padding: 20px;
+    margin: 20px;
+    margin-right:100px;
+    padding-right:100px;
+}
+
+#titleh1 {
+    color: greenyellow;
+}
+#output1 {
+    width: 20%;
+    margin-right:10px;
+    float:left;
+}
+#output2 {
+    width: 30%;
+    margin-left:10px;
+    float:left;
+}
+#tableDaty {
+    border:3px double white;
+    width:100%;
+    display: block;
+    height: 500px;
+    overflow-y: auto;
+}
+#tableDaty tr:hover{
+    background-color:grey;
+}
+#tableDaty td{
+   display:inline-block;
+   width:100%;
+}
+#tableDaty tr{
+    display:inline-block;
+    width:100%;
+}
+#tableDaty a{
+   color:aqua;
+}
+#getDates {
+    margin-bottom: 5px;
+}
+
+
+#infoo {
+    font-weight: bold;
+}
+
+#tableWaluty {
+    border:3px double gold;
+    width:100%;
+    display: block;
+    height: 500px;
+    overflow-y: auto;
+}
+#tableWaluty tr:hover{
+    background-color:grey;
+    width:100%;
+}
+#tableWaluty td,th{
+   width:49%;
+   margin-right:100px;
+}
+#tableWaluty tr{
+    width:100%;
+}
+#tableWaluty a{
+   color:aqua;
+}

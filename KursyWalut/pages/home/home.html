@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+</head>
+<body>
+    <div id="alll">
+        <div style="float:left">
+            <button data-win-control="WinJS.UI.BackButton"></button>
+            <h1 id="titleh1">Średnie kursy Walut</h1>
+        </div>
+        <div style="float:right">
+            <input id="exitApp" type="button" value="Exit" /><br />
+        </div>
+        <div style="clear:both"></div>
+        <hr />
+        <!--<p>http://www.nbp.pl/kursy/xml/dir.txt</p>-->
+        <button id="getDates">Poberz daty</button>
+        <p id="dateCount" style="display:inline-block"> Nie pobrano jeszcze</p>
+        <p id="infoo" style="display:inline-block"> infoo</p>
+        <div>
+            <div id="output1">No result yet</div>
+            <div id="output2">No result yet</div>
+        </div>
+        <div style="clear:both"></div>
+        <button id="getWaluty">Pobierz waluty</button>
+        <!--<p>http://www.nbp.pl/kursy/xml/???.xml</p>-->
+    </div>
+</body>
+</html>

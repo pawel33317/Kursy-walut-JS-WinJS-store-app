@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LATITUDE</Machine>
+    <WindowsUser>Paweł</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ffeaddd1-0e31-4569-b2b5-2c5c72562d26</PackageIdentityName>
+    <IntermediateOutputPath>D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\pages\page2\page2.css">
+      <PackagePath>pages\page2\page2.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\pages\page2\page2.js">
+      <PackagePath>pages\page2\page2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\pages\page2\page2.html">
+      <PackagePath>pages\page2\page2.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

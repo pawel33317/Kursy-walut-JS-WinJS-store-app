@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LATITUDE</Machine>
+    <WindowsUser>Paweł</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ffeaddd1-0e31-4569-b2b5-2c5c72562d26</PackageIdentityName>
+    <IntermediateOutputPath>D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>76146659A844CFF91EF225A5D7EFD19CEE5334191F19B403F5E71C3748334C58</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ffeaddd1-0e31-4569-b2b5-2c5c72562d26_1.0.0.0_neutral__2x6xnak0cvg5w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ffeaddd1-0e31-4569-b2b5-2c5c72562d26_2x6xnak0cvg5w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ffeaddd1-0e31-4569-b2b5-2c5c72562d26</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Paweł</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-15T11:06:36.871</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-05-15T11:35:51.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2015-05-15T12:11:44.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\pages\page2\page2.css">
+      <PackagePath>pages\page2\page2.css</PackagePath>
+      <Modified>2015-05-15T14:58:15.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-05-15T11:34:59.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-05-15T10:20:11.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2015-05-17T13:47:04.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\pages\page2\page2.js">
+      <PackagePath>pages\page2\page2.js</PackagePath>
+      <Modified>2015-05-17T13:43:40.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2015-05-15T15:41:25.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-05-15T11:24:22.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\pages\page2\page2.html">
+      <PackagePath>pages\page2\page2.html</PackagePath>
+      <Modified>2015-05-17T13:43:31.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-15T11:06:36.757</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

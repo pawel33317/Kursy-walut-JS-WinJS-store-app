@@ -1,0 +1,30 @@
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\ReverseMap\resources.pri
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\AppxManifest.xml
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\HelloWorldWithPages.build.appxrecipe
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\priconfig.xml
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\priconfig.xml.intermediate
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\layout.resfiles
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\layout.resfiles.intermediate
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\resources.resfiles
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\resources.resfiles.intermediate
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\pri.resfiles
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\pri.resfiles.intermediate
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\qualifiers.txt
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\qualifiers.txt.intermediate
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\paweł\documents\visual studio 2013\Projects\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\ProjectArchitectures.txt
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\ReverseMap\resources.pri
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\AppxManifest.xml
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bin\Debug\HelloWorldWithPages.build.appxrecipe
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\priconfig.xml
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\priconfig.xml.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\layout.resfiles
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\layout.resfiles.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\resources.resfiles
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\resources.resfiles.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\pri.resfiles
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\pri.resfiles.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\qualifiers.txt
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\qualifiers.txt.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\HelloWorldWithPages\bld\Debug\ProjectArchitectures.txt

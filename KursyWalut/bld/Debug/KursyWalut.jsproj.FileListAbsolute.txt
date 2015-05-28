@@ -1,0 +1,15 @@
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bin\Debug\ReverseMap\resources.pri
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bin\Debug\AppxManifest.xml
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bin\Debug\KursyWalut.build.appxrecipe
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\priconfig.xml
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\priconfig.xml.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\layout.resfiles
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\layout.resfiles.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\resources.resfiles
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\resources.resfiles.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\pri.resfiles
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\pri.resfiles.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\qualifiers.txt
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\qualifiers.txt.intermediate
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Szkoła\Mobilne\UkonczoneKursyWalutWinJS\HelloWorldWithPages\KursyWalut\bld\Debug\ProjectArchitectures.txt
